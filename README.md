@@ -12,6 +12,8 @@ A open sourced, extremely efficient Texas Hold'em and short deck solver. See thi
 
 ![](imgs/solver_example.gif)
 
+<img width="1280" alt="image" src="https://github.com/LoganSurmount/THsolver/assets/80961905/35f9f87d-8258-448f-a8a0-4f1435b38b0f">
+
 Features:
 
 - In a tree with 1~2bets + allin, it's speed exceeds piosolver on flop
