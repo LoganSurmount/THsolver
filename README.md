@@ -8,7 +8,7 @@
 README [English](README.md) | [中文](README.zh-CN.md)
 
 ## Introduction 
-A open sourced, extremely efficient Texas Hold'em and short deck solver. See this [Introduction video](https://youtu.be/IsSJNz7sRmQ) for more. Supports Windows,MacOs and Linux.
+An open source, extremely efficient Texas Hold'em and short deck solver
 
 ![](imgs/solver_example.gif)
 
@@ -24,10 +24,8 @@ Features:
 - Support dump strategy to json file
 - It's the c++ version of [TexasHoldemSolverJava](https://github.com/bupticybee/TexasHoldemSolverJava) with a ton of optimization, it's 5x faster than the java version and takes less than 1/3 memory.
 
-Feel free to mess with a toy solver [in google colab](https://colab.research.google.com/github/bupticybee/TexasSolver/blob/console/TexasSolverTechDemo.ipynb)
 
-
-## Install
+## Easy Install
 
 Download package according to your OS in [release package](https://github.com/bupticybee/TexasSolver/releases), unzip it, and install is done. It's that simple.
 
